@@ -1,5 +1,5 @@
 # Tools Apa ini?
-- SC Untuk DDoS Tiktok Tanggal 5 Agustus 2020
+- Sebuah Tool untuk menyadap Whatsapp
 
 # Apa Yang Baru?
 - Fix Bug Ketika mengkonfigurasi server
